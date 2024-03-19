@@ -1,0 +1,1 @@
+Data Transfer Object: Luu chuyen du lieu trong cac tier(tang)
